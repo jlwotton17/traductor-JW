@@ -1,0 +1,26 @@
+.titulo{
+    text-align: center;
+}
+
+.contenedorIdioma{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.contenedorPregunta,
+.contenedorRespuesta{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+}
+
+label{
+    text-align: center;
+}
+
+.contenedorResultado{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
